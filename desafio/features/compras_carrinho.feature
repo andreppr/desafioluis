@@ -6,7 +6,7 @@
   Quero fazer uma compra online
   Para satisfazer a minha necessidade de compra na quarentena
 
-  Cenario: Realizando uma busca de geladeira
+  Cenario: Realizando uma busca de Notebook
     Dado que eu esteja na página do portal online
     Quando eu clicar na busca e realizar uma compra
     Então valido a presença no carrinho
